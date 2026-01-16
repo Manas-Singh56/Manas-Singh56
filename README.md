@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I’m Manas 👋  
+A Computer Science undergraduate. I like building systems that evolve from simple ideas into more realistic architectures.
+I usually start with a naive implementation, let it break, and then redesign it to handle:
+
+- Asynchronous workflows  
+- State transitions and consistency  
+- Failure recovery and retries  
+- Coordination between independent components  
+
+I learn best by building and observing *why* real systems need queues, background workers, and event-driven flows.
+
 
 <!--
 **Manas-Singh56/Manas-Singh56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
