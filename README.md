@@ -9,6 +9,10 @@ I usually start with a naive implementation, let it break, and then redesign it 
 
 I learn best by building and observing *why* real systems need queues, background workers, and event-driven flows.
 
+<p align="center">
+  <img src="![Slakkj](https://github.com/user-attachments/assets/9f685fc6-6cfe-4159-aeec-1e1309999a80)
+" width="800" />
+</p>
 
 <!--
 **Manas-Singh56/Manas-Singh56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
