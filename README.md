@@ -8,6 +8,10 @@ I usually start with a naive implementation, let it break, and then redesign it 
 - Coordination between independent components  
 
 I learn best by building and observing *why* real systems need queues, background workers, and event-driven flows.
+📍 India  
+🎓 Computer Science Undergraduate (3rd Year)  
+🔗 [Resume](your-resume-link) | [LinkedIn](your-linkedin) | [Portfolio](your-portfolio) | [Email](mailto:ionspider50@gmail.com)
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9f685fc6-6cfe-4159-aeec-1e1309999a80
