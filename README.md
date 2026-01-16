@@ -10,11 +10,11 @@ I learn best by building and observing *why* real systems need queues, backgroun
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manas-Singh56&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manas-Singh56" />
 </p>
 
 
